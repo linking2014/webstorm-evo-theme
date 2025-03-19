@@ -1,0 +1,44 @@
+{
+  "name": "webstorm-evo",
+  "displayName": "WebStorm Evo Theme",
+  "version": "1.0.1",
+  "publisher": "linking2014",
+  "description": "A evo theme that looks similar to WebStorm New UI",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#1e1f22",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light theme",
+    "jetbrains",
+    "intellij",
+    "new light",
+    "webstorm"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Webstorm Evo",
+        "uiTheme": "vs",
+        "path": "./themes/webstorm_evo_light.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linking2014/webstorm-evo-theme/issues",
+    "email": "narilee91@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linking2014/webstorm-evo-theme.git"
+  }
+}

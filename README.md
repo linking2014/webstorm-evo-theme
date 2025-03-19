@@ -1,1 +1,1 @@
-# webstorm-evo-theme
+# WebStorm Evo Theme
